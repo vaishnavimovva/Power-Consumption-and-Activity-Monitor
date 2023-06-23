@@ -1,10 +1,10 @@
 # Power-Consumption-and-Activity-Monitor
 An overview and analysis of the Power Consumption and Activity Monitoring Application, which is a graphical user interface (GUI) program developed using Python and Tkinter. The application allows users to monitor power consumption, CPU usage, and memory usage of their systems in real-time.
 Tools and Technologies Used:
-Python
-Tkinter
-CSV
-psutil
+Python,
+Tkinter,
+CSV,
+psutil.
 
 Features and Functionality
 ● Provide users with real-time monitoring of power consumption, CPU usage, and
